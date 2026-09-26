@@ -1,0 +1,20 @@
+# Python bytecode and test caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+
+# Local output and secrets
+output/
+.env
+
+# Editor and operating-system files
+.vscode/
+.DS_Store
+Thumbs.db
